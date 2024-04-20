@@ -1,0 +1,23 @@
+  
+
+
+
+
+
+para crear nueva rama
+    git checkout -b <nombre de nueva rama>
+
+para cambiar de rama    
+    git checkout <nombre de rama>
+
+pushear a tu rama
+    git add .
+    git commit -m "nombre del commit"
+    git push origin <nombre de tu rama>
+
+eliminar rama 
+    git branch -d <nombre-de-la-rama>
+
+
+traer los cambio de la rama main a tu rama 
+    git pull origin main
