@@ -1,0 +1,6 @@
+  
+para crear nueva rama
+    git checkout -b <nombre de nueva rama>
+
+para cambiar de rama    
+    git checkout <nombre de rama>
